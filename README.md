@@ -1,32 +1,9 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
-🥳 Please join my patreon community https://patreon.com/camenduru <br />
+## Summary
+
+A quick and dirty fork of camenduru's kohya_ss-colab repo intended to allow kohya_ss SDXL code to be run on Google colab.  The big (only?) difference is that camenduru's code installs onto 
+the colab disk and I wanted to install it on my google drive and mount it when I needed it. 
 
 ## 🦒 Colab
 
-# 🚦 WIP 🚦
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brenton-thomas/kohya_ss-colab/blob/main/kohya_ss_colab.ipynb) | kohya_ss_colab
 
-| Colab | Info
-| --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/kohya_ss-colab/blob/main/kohya_ss_colab.ipynb) | kohya_ss_colab
-
-## Tutorial
-From https://www.youtube.com/@SECourses <br />
-- https://www.youtube.com/watch?v=TpuDOsuKIBo <br />
-- https://www.youtube.com/watch?v=3uzCNrQao3o <br />
-
-## Main Repo
-https://github.com/kohya-ss/sd-scripts <br />
-https://github.com/bmaltais/kohya_ss <br />
-https://github.com/huggingface/diffusers <br />
-
-## Page
-https://dreambooth.github.io/ <br />
-https://github.com/microsoft/LoRA <br />
-
-## Paper
-https://arxiv.org/abs/2208.12242 <br />
-https://arxiv.org/abs/2106.09685 <br />
-
-## Output
-![Output](https://github.com/camenduru/kohya_ss-colab/assets/54370274/7634544c-4195-4915-9cf1-4a3277bc8d18)
