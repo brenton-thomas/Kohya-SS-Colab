@@ -5,5 +5,5 @@ the colab disk and I wanted to install it on my google drive and mount it when I
 
 ## 🦒 Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brenton-thomas/kohya_ss-colab/blob/main/kohya_ss_colab.ipynb) | kohya_ss_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brenton-thomas/Kohya-SS-Colab/blob/main/kohya-ss-colab.ipynb) | Kohya-SS-Colab
 
