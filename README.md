@@ -8,5 +8,7 @@ the colab disk and I wanted to install it on my google drive and mount it when I
 
 ## Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brenton-thomas/Kohya-SS-Colab/blob/main/kohya-ss-colab.ipynb) | Kohya-SS-Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brenton-thomas/Kohya-SS-Colab/blob/main/kohya-LoRA-dreambooth.ipynb) | Original Kohya-SS-Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brenton-thomas/Kohya-SS-Colab/blob/main/kohya-ss-colab.ipynb) | Kohya-SS-Colab  - NOT WORKING
 
